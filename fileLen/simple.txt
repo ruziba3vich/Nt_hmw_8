@@ -1,0 +1,3 @@
+Hello world, Soliyev Dostonbek, my world is my world
+Bootcamp foundation FN10
+Golang vs Java
